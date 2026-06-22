@@ -895,7 +895,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.fm@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0 \
-    vendor.qti.hardware.wifidisplaysession_aidl-V1-ndk \
+    vendor.qti.hardware.wifidisplaysession_aidl-V2-ndk \
     vendor.qti.imsrtpservice@3.0 \
     CACertService \
     CneApp \
